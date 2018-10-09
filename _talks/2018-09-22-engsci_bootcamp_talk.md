@@ -1,5 +1,5 @@
 ---
-title: "Automated Abnormality Detection in Histopathological Images with Deep Learning"
+title: "EngSci Machine Intelligence Bootcamp Poster: Automated Abnormality Detection in Histopathological Images with Deep Learning"
 collection: talks
 type: "Talk"
 permalink: /talks/2018-09-22-engsci_bootcamp_talk

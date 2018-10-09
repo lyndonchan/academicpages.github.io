@@ -6,7 +6,8 @@ permalink: /talks/engsci_mi_bootcamp
 venue: "University of Toronto, Myhal Centre"
 date: 2018-09-22
 location: "Toronto, Canada"
-paperurl: 'http://lyndonchan.github.io/files/EngSci MI Bootcamp Poster.pdf'
 ---
 
 This was an event held for Engineering Science alumni at the University of Toronto, covering various topics in machine intelligence. I gave a poster presentation for the event. View more information about the event <a href="http://engsci.utoronto.ca/alumni/return-learn-alumni-machine-intelligence-bootcamp/">here</a>.
+
+Click here to download the <a href="http://lyndonchan.github.io/files/EngSci MI Bootcamp Poster.pdf">poster</a> I presented.

@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2018-winter-teaching
 venue: "University of Toronto, Electrical Engineering"
-date: 2018
+date: 2018-01-03
 location: "Toronto, Canada"
 ---
 

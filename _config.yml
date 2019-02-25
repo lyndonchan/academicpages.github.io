@@ -81,10 +81,10 @@ analytics:
 author:
   name             : "Lyndon Chan"
   avatar           : "profile.jpg"
-  bio              : "MASc ECE student at University of Toronto, formerly at Qualcomm, researches computer vision for biomedical applications. In spare time, a thinker, translator, runner, and music lover."
+  bio              : "MASc ECE student at University of Toronto, formerly at Qualcomm, computational pathology researcher. In spare time, a thinker, translator, runner, and music lover."
   location         : "Toronto, Canada"
   employer         :
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.ca/citations?user=IvxCp3oAAAAJ"
   email            : lyndon.chan@mail.utoronto.ca
   uri              :
   bitbucket        :

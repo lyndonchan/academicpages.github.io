@@ -10,7 +10,7 @@ locale                   : "en-CA"
 title                    : "Lyndon Chan"
 title_separator          : "-"
 name                     : &name "Lyndon Chan"
-description              : &description "Master's Research Assistant at the University of Toronto"
+description              : &description "Data Scientist at Alphabyte Solutions"
 url                      : https://lyndonchan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lyndonchan.github.io"
@@ -81,11 +81,11 @@ analytics:
 author:
   name             : "Lyndon Chan"
   avatar           : "profile.jpg"
-  bio              : "Computer Vision, Machine Learning Research Scientist (ECE MASc'20, University of Toronto). In spare time, a thinker, translator, runner, and music lover."
-  location         : "Toronto, Canada"
+  bio              : "Data Scientist at Alphabyte Solutions, former Machine Learning Researcher (ECE MASc'20, University of Toronto). In spare time, a reader, translator, and runner."
+  location         : "Markham, Ontario, Canada"
   employer         :
   googlescholar    : "https://scholar.google.ca/citations?user=IvxCp3oAAAAJ"
-  email            : lyndon.chan@mail.utoronto.ca
+  email            : ly.hc.chan@gmail.com
   uri              :
   bitbucket        :
   codepen          :
@@ -98,8 +98,8 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : # "http://orcid.org/yourorcidurl"
+  linkedin         : "lyndonchan"
+  orcid            : "https://orcid.org/0000-0002-1185-7961"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

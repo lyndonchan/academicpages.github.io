@@ -6,14 +6,17 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Patents"
+    url: /patents/
+
   - title: "Talks"
     url: /talks/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/   
     
-  - title: "Blog"
-    url: /blog/
+  # - title: "Blog"
+  #   url: /blog/
     
-  - title: "Projects"
-    url: /projects/
+  # - title: "Projects"
+  #   url: /projects/

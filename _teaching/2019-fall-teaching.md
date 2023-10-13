@@ -8,4 +8,4 @@ date: 2019-09-09
 location: "Toronto, Canada"
 ---
 
-I designed and marked assignments and final project for ECE1512, a graduate-level course on CNN classification and XAI
+TA: designed/marked assignments/final project, covering CNNs and XAI

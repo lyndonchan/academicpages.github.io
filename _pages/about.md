@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm currently a Data Scientist at the start-up Alphabyte Solutions. Formerly, I was a Graduate Researcher at the Multimedia Lab in the University of Toronto, where I worked on computer vision applied to computational pathology. I obtained both my Master's (2020) and Bachelor's (2017) degrees in Electrical Engineering at the University of Toronto and worked on video post-processing at Qualcomm for a year.
+I'm currently an Applied Researcher at Avidbots Corp, where I work on deep learning perception for autonomous cleaning robots. Formerly, I was a Data Scientist at Alphabyte Solutions, where I worked on ad spend analytics, house price prediction, and developed a parliamentary summarizing site called <a href="https://www.parlawatch.ai/">Parlawatch</a>. I obtained my Master's degree in Electrical Engineering from the University of Toronto, researching weakly-supervised semantic segmentation of pathology images.
 
-My thesis research focused on weakly-supervised semantic segmentation of histological tissue type from digital pathology images. My current technical interests include: natural language processing, image classification, time-series forecasting, and other sorts of machine learning.
+My current technical interests include: computer vision, robot perception, autonomous navigation, simulation, and natural language processing.
 
 See my CV <a href="https://github.com/lyndonchan/Awesome-CV/blob/master/cv.pdf">here</a> or download a copy <a href="https://github.com/lyndonchan/Awesome-CV/raw/master/cv.pdf">here</a>.

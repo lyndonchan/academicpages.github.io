@@ -8,4 +8,4 @@ date: 2018-01-03
 location: "Toronto, Canada"
 ---
 
-I worked as the head TA for ECE462, and organized eight lab assignments and four quizzes, in addition to grading student submissions.
+Head TA: organized/graded lab assignments/quizzes, won ECE Student Club's Teaching Assistant Award.
